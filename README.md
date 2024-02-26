@@ -16,5 +16,7 @@ The objective can be broken into the following detailed components
    forecast for next 15 days.
 4) ACTIONABLE INSIGHTS AND RECOMMENDATION:
    End goal is to share valuable insights ans actionable information that can drive strategies decision-making and support the supermarkets goals for growth, efficiency and 
-   customer satisfaction  
+   customer satisfaction.
+
+     
     
